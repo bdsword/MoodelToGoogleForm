@@ -95,7 +95,7 @@ def main():
 
     service = build('script', 'v1', credentials=creds)
 
-    deploymentId = 'AKfycbz4bCOfVmaaaZt6l_q66Yisw6ISBNxMe7HpzHHkW1whWhPfJ7i4_aA_HxVGRbnd9hLg'
+    deploymentId = '**** Please fill you own Deployment ID ****'
 
     # Call the Apps Script API
     try:
